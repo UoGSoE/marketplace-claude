@@ -3,7 +3,7 @@ Claude code plugin to add some helpful coding assistant skills, commands and hoo
 ## Installation
 
 1. Run `claude`, then :
-- `/plugin` -> Marketplaces -> Add marketplace -> https//github.com/UoGSoE/marketplace-claude`
+- `/plugin` -> Marketplaces -> Add marketplace -> `https://github.com/UoGSoE/marketplace-claude`
 
 Make sure to enable the plugin - then restart Claude.
 
