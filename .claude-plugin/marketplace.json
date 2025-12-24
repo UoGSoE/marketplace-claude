@@ -1,0 +1,14 @@
+{
+  "name": "teamdev-plugins",
+  "owner": {
+    "name": "ohffs"
+  },
+  "plugins": [
+    {
+      "name": "agent-skills-plugin",
+      "source": "./plugins/agent-skills",
+      "description": "Add some helpful skills and commands to your agents"
+    }
+  ]
+}
+
