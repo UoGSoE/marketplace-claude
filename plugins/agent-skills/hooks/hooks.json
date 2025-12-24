@@ -1,14 +1,16 @@
 {
-    "PreToolUse": [
-      {
-        "matcher": "Write|Edit",
-        "hooks": [
+    "hooks": {
+        "PreToolUse": [
           {
-            "type": "command",
-            "command": "~/Documents/code/agent-edit-checker/check.php"
+            "matcher": "Write|Edit",
+            "hooks": [
+              {
+                "type": "command",
+                "command": "~/Documents/code/agent-edit-checker/check.php"
+              }
+            ]
           }
         ]
       }
-    ]
-  }
+    }
 }
