@@ -3,7 +3,7 @@ Claude code plugin to add some helpful coding assistant skills, commands and hoo
 ## Installation
 
 1. Run `claude`, then :
-- `/plugin marketplace-add `
+- `/plugin marketplace-add https//github.com/UoGSoE/marketplace-claude`
 - `/plugin install` - then search for 'teamdev'
 
 Now you should have varous `/teamdev:` commands available and if you run `/skills` there will be some teamdev skills listed.
